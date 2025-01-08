@@ -20,7 +20,8 @@ This project demonstrates how to classify handwritten digits using a neural netw
 
 
 
-Testing with a Handwritten Image
+Testing with a Handwritten Image:
+
 I tested the model with this custom handwritten image:
 
 ![Handwritten Digit](555.png)
